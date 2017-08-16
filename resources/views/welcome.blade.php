@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3> PARQUE NACIONAL – CASCADA LA CUEVA Domingo 23 de julio de 2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3> PARQUE NACIONAL – CASCADA LA CUEVA Domingo 20 de agosto de  2017</h3></div>
 
                     </div>
 <br>
@@ -76,26 +76,23 @@
 
                         <h2>Ubicación</h2>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El parque Nacional Enrique Olaya Herrera está ubicado en la localidad de Santa Fe, cuenta con tres sectores: Sector cultural, Sector deportivo y recreativo y la parte alta de montaña donde se encuentran varios senderos subiendo por carabineros tanques del silencio y llegando a pico del águila.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El sendero se encuentra ubicado en los cerros tutelares de Bogotá, en la localidad de Santa Fe entre el parque nacional (Cerro del Pico del Águila) y Monserrate. Conoceremos la historia y parte de algunos escenarios como: El parque Nacional, carabineros, Tanques y Monumento del silencio, Mirador Pico del águila, y cascada La Cueva.</p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la torre del reloj del parque Nacional, donde el Guía de caminatas hace un calentamiento previo y socializa las indicaciones para el recorrido. Continúa por la parte alta del subiendo por carabineros tanques del silencio y llegando a cascada la cueva; Pasando por excelentes miradores y disfrutando de toda una reserva de vida de nuestra ciudad.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en el reloj del parque nacional, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido para su ejecución y se dará inicio a la caminata.<br>
+                        Se asciende hasta la estación de carabineros en la avenida circunvalar, de allí se pasa al Monumento del silencio donde se hace una introducción al ecosistema de bosque de niebla. Luego se continúa en ascenso hasta llegar al pico de águila estupendo mirador y de allí se inicia el descenso por el bosque hasta llegar a la cascada La Cueva. Después de un agradable baño natural de agua fría se regresa por el mismo camino hasta llegar al parque nacional donde termina la actividad.  </p>
 
-                        <!--<h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>-->
-                        <!--<ul class="ul_inicio">
+                        <h2>Durante el recorrido se visitarán los siguientes atractivos:</h2>
+                        <ul class="ul_inicio">
                             <font style="font-size: 11pt; line-height: 25px;">
-                            <li>Barrio el triunfo </li>
-                            <li>Administración del parque </li>
-                            <li>Parque de la tierra </li>
-                            <li>Humedales artificiales </li>
-                            <li>Centro de amistad con tierra  (C.A.T)</li>
-                            <li>Alto de la cruz </li>
-                            <li>Mirador del relleno sanitario de Doña Juana </li>
-                            <li>Refugio</li>
-                            <li>Mirador de juan Rey </li>
+                            <li>Parque Nacional</li>
+                            <li>Monumento del silencio  </li>
+                            <li>Pico del águila </li>
+                            <li>Cascada la cueva </li>
+                            <li>Bosque de niebla</li>
                             </font>
-                        </ul>-->
+                        </ul>
                         <br>
 
                         <font size="4"><center><table width="1000">
@@ -114,7 +111,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Torre del Reloj parque Nacional</p>
+                                            <p>Reloj parque Nacional</p>
 
                                         </td>
 
@@ -130,7 +127,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 23 de julio de 2017</p>
+                                            <p>Domingo 20 de agosto de 2017</p>
 
                                         </td>
 
@@ -196,7 +193,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Hasta 3.200  m.s.n.m</td>
+                                            <p>2.800 m.s.n.m (Aprox.)</td>
 
                                     </tr>
 
@@ -229,55 +226,7 @@
 
                                         </td>
 
-                                    </tr>
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Tiempo de recorrido</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>5 horas</p>
-
-                                        </td>
-
-                                    </tr>
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Acceso </p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Por la Cra. 7° y Cra. 5 con calles 39 y 36.</p>
-
-                                        </td>
-
-                                    </tr>
-                                
-                                         <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Al finalizar</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            El recorrido termina en mismo punto del la torre del reloj del parque nacional. 
-
-                                        </td>
-
-                                    </tr>
-                                     
-                                     
+                                    </tr>                            
 
                         </table></center></font>
 
